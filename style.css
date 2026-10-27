@@ -29,22 +29,26 @@ margin: 15px 0 5px;
 color: #222;}
 
 .skill_html { 
+    margin-left: 10px;
+    margin-right: 10px;  
     font-size: 10; 
-  background-color: #bd5151; 
-  border-radius: 20px; 
-  color: #9b0101;
+    background-color: #bd5151; 
+    border-radius: 10px; 
+    color: #9b0101;
 } 
 
 .skill_css { 
+    margin-left: 10px;
+    margin-right: 10px;  
     font-size: 10; 
-  background-color: #617efd; 
-  border-radius: 20px; 
-  color: #031cfd;
+    background-color: #617efd; 
+    border-radius: 20px; 
+    color: #031cfd;
 } 
 
 .skill_git { 
-    margin-left: 20px;
-    margin-right: 20px;  
+    margin-left: 10px;
+    margin-right: 10px;  
     font-size: 10; 
     background-color: #d6c269; 
     border-radius: 20px; 
